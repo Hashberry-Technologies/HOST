@@ -8,9 +8,9 @@ $HOST will strive to provide utility for the token in many ways such as the Cryp
 All of the information contained in this white paper and on the [website](https://hashberry.org/hashberry-token/) is provided solely for educational purposes and should not be construed as financial advice. Purchasing or trading cryptocurrencies/digital assets is fraught with danger and uncertainty. Viewers of this white paper should never put more money into cryptocurrency than they can afford to lose. Before investing in this or any other cryptocurrency project, the reader should always seek expert investment advice.
 {% endhint %}
 
-## Guides: Jump right in
+## Jump right in
 
-Follow our handy guides to get started on the basics as quickly as possible:
+
 
 {% content-ref url="content/about-usdhost.md" %}
 [about-usdhost.md](content/about-usdhost.md)
