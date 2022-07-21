@@ -4,9 +4,10 @@ $HOST which stands for Hashberry Over-Simplified Token is a community-based and 
 
 #### The basic principles of the smart contract that CxCoin is run are:
 
-* Locked Liquidity: 30% of the Liquidity is Locked-Up
+* Locked : 30% of the tokens are Locked-Up until 2030.
 * Token Burnt: 10% of the tokens are in Burner Wallet
-* Growth Fund: 3% is added to the Hashberry Ecosystem Growth Fund
+* LP Tokens: The Liquidity pool tokens are burnt, avoiding the chances of Rug pool.
+* Anti-Whale Mechanism&#x20;
 
 
 

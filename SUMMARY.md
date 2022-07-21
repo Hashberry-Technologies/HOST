@@ -5,7 +5,6 @@
 ## Content
 
 * [ABOUT $HOST](content/about-usdhost.md)
-* [TRANSACTIONS TAX PERCENTAGES](content/transactions-tax-percentages.md)
 * [TOKENOMICS](content/tokenomics.md)
 * [HOW TO BUY](content/how-to-buy.md)
 * [AUDIT](content/audit.md)

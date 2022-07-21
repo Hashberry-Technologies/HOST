@@ -16,8 +16,8 @@ All of the information contained in this white paper and on the [website](https:
 [about-usdhost.md](content/about-usdhost.md)
 {% endcontent-ref %}
 
-{% content-ref url="content/transactions-tax-percentages.md" %}
-[transactions-tax-percentages.md](content/transactions-tax-percentages.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="content/tokenomics.md" %}
