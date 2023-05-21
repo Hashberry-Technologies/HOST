@@ -5,6 +5,7 @@
 ## Content
 
 * [ABOUT $HOST](content/about-usdhost.md)
+* [Website UI/UX](content/website-ui-ux.md)
 * [TOKENOMICS](content/tokenomics.md)
 * [HOW TO BUY](content/how-to-buy.md)
 * [AUDIT](content/audit.md)
