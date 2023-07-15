@@ -1,3 +1,5 @@
+// this token is discontinued 
+
 pragma solidity ^0.8.0;
 
 /**
